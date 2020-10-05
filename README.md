@@ -1,9 +1,9 @@
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raemerrr)](https://github.com/Raemerrr/)-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raemerrr&show_icons=true&theme=graywhite)](https://github.com/Raemerrr/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raemerrr&show_icons=true&theme=chartreuse-dark)](https://github.com/Raemerrr/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raemerrr&layout=compact)](https://github.com/Raemerrr/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raemerrr&layout=compact&theme=chartreuse-dark)](https://github.com/Raemerrr/)
 <!--
 **Raemerrr/Raemerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
