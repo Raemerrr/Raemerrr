@@ -1,4 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raemerrr)](https://github.com/Raemerrr/)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raemerrr)](https://github.com/Raemerrr/)-->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raemerrr&show_icons=true&theme=graywhite)](https://github.com/Raemerrr/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raemerrr&layout=compact)](https://github.com/Raemerrr/)
