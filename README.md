@@ -1,5 +1,5 @@
 
-# 🙋🏻‍♂️강래민 | 삼성 에스원 | 빅데이터Lab <a href="mailto:rkdfoals@naver.com">📧</a> 
+# 🙋🏻‍♂️강래민 | 삼성 에스원 | 플랫폼구축T/F <a href="mailto:rkdfoals@naver.com">📧</a> 
 <p>"천천히 꾸준하게"라는 생각을 가지고 개발자로서 꾸준히 성장하고 있는 주니어 개발자입니다.</p>
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raemerrr)](https://github.com/Raemerrr/)-->
 
